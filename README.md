@@ -1,12 +1,11 @@
 
-<h1 align="center">Welcome to my Github profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Tech+Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50&color=0EE400FF"></a>
 </p>
 <hr/>
 
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariamisaeva&label=Profile%20views&color=0e75b6&style=flat" alt="mariamisaeva" /> </p>
 
