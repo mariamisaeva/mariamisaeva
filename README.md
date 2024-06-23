@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Tech%20enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
-<hr/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stack+Developer;Always+learning+new+things;Tech+enthusiast)](https://git.io/typing-svg)
 
 <!--
 **mariamisaeva/mariamisaeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
