@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -22,3 +23,4 @@ Here are some ideas to get you started:
   
   <br/><br/><br/>
 </div>
+-->
