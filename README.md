@@ -56,7 +56,6 @@ I have gained solid skills in both frontend and backend technologies and languag
 ![Mocha](https://img.shields.io/badge/-%20Mocha%20-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-%20Cypress%20-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![JWT](https://img.shields.io/badge/-%20JWT%20-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![OAuth](https://img.shields.io/badge/-%20OAuth%20-4285F4?style=for-the-badge&logo=oauth&logoColor=white)
 ![Postman](https://img.shields.io/badge/-%20Postman%20-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
