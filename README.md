@@ -40,6 +40,8 @@ I have gained solid skills in both frontend and backend technologies and languag
 ![C++](https://img.shields.io/badge/-%20C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ![NPM](https://img.shields.io/badge/-%20NPM%20-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Git](https://img.shields.io/badge/-%20Git%20-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-%20GitHub%20-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ![React](https://img.shields.io/badge/-%20React%20-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
@@ -54,9 +56,6 @@ I have gained solid skills in both frontend and backend technologies and languag
 
 ![MongoDB](https://img.shields.io/badge/-%20MongoDB%20-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-%20MySQL%20-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-![Git](https://img.shields.io/badge/-%20Git%20-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-%20GitHub%20-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ![Jest](https://img.shields.io/badge/-%20Jest%20-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/-%20Mocha%20-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
