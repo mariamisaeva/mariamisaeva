@@ -82,7 +82,7 @@ I have gained solid skills in both frontend and backend technologies and languag
 <h3 align="left">🛠 Planning To Learn:</h3>
 
 ![Java](https://img.shields.io/badge/-%20Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Java](https://img.shields.io/badge/-%20Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
 
