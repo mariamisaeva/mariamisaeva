@@ -62,6 +62,12 @@ I have gained solid skills in both frontend and backend technologies and languag
 ![Vercel](https://img.shields.io/badge/-%20Vercel%20-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-%20Netlify%20-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![UE5](https://img.shields.io/badge/-%20UE5-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![Linux](https://img.shields.io/badge/-%20Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+
+
+###
+
+<h3 align="left">🛠 Learning... :</h3>
 
 
 
