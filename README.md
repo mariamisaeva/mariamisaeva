@@ -35,6 +35,7 @@ I have gained solid skills in both frontend and backend technologies and languag
 
 
 
+![Metrics](https://github.com/mariamisaeva/mariamisaeva/blob/main/metrics.plugin.isocalendar.fullyear.svg)
 
 
 
