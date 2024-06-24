@@ -55,6 +55,10 @@ I have gained solid skills in both frontend and backend technologies and languag
 
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat&logo=unreal-engine&logoColor=white)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+
 
 
 
