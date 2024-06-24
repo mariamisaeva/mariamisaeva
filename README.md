@@ -7,7 +7,7 @@
 
 
 ###
- <h3 align="left">👩‍💻  About Me👽 </h3>
+ <h3 align="left">About Me 👩‍💻 </h3>
 
  Hi there, I'm Mariam, an aspiring web developer transitioning from a different field. Having completed an intensive coding Bootcamp at HYF and through diligent self-study, 
 I have gained solid skills in both frontend and backend technologies and languages.<p>⚙️ I'm currently working on improving my tech skills, building new projects, and contributing to meaningful initiatives in the web development community.</p> <p>🎮 In my free time I do gaming.</p>
