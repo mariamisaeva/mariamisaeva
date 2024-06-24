@@ -58,6 +58,7 @@ I have gained solid skills in both frontend and backend technologies and languag
 ![JWT](https://img.shields.io/badge/-%20JWT%20-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 ![OAuth](https://img.shields.io/badge/-%20OAuth%20-4285F4?style=for-the-badge&logo=oauth&logoColor=white)
 ![Postman](https://img.shields.io/badge/-%20Postman%20-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/-%20Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-%20Heroku%20-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-%20Vercel%20-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-%20Netlify%20-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
