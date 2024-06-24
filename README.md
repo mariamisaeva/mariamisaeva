@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariamisaeva&label=Profile%20views&color=0e75b6&style=flat" alt="mariamisaeva" /> </p>
 
-
+o Learn
 
 - 💬 Ask me about **anything, I am happy to help**
   
