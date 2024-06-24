@@ -82,7 +82,8 @@ I have gained solid skills in both frontend and backend technologies and languag
 <a href = "mailto:mariam.hammad8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-
+###
+###
 ![Visitors](https://komarev.com/ghpvc/?username=mariamisaeva&label=Visitors&color=0e75b6&style=flat)
 ![focus](https://img.shields.io/badge/Focus-BACKEND-brightgreen)
 ![living](https://img.shields.io/badge/Living-Netherlands-3c9)
