@@ -15,7 +15,7 @@ I have gained solid skills in both frontend and backend technologies and languag
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariamisaeva&label=Profile%20views&color=0e75b6&style=flat" alt="mariamisaeva" /> </p>
+
 
 
 
@@ -44,7 +44,7 @@ I have gained solid skills in both frontend and backend technologies and languag
 </div>
 
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariamisaeva&label=Profile%20views&color=0e75b6&style=flat" alt="mariamisaeva" /> </p>
 
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
