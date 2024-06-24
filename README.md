@@ -84,6 +84,7 @@ I have gained solid skills in both frontend and backend technologies and languag
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ###
+
 ![Visitors](https://komarev.com/ghpvc/?username=mariamisaeva&label=Visitors&color=0e75b6&style=flat)
 ![focus](https://img.shields.io/badge/Focus-BACKEND-brightgreen)
 ![living](https://img.shields.io/badge/Living-Netherlands-3c9)
