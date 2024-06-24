@@ -70,13 +70,11 @@ I have gained solid skills in both frontend and backend technologies and languag
 <h3 align="left">🛠 Currently Learning:</h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/-%20TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![WebSockets](https://img.shields.io/badge/-%20WebSockets-777777?style=for-the-badge&logo=websocket&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-%20Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Linux Server](https://img.shields.io/badge/-%20Linux%20Server-000000?style=for-the-badge&logo=linux&logoColor=white)
-
 
 ###
 
@@ -86,6 +84,8 @@ I have gained solid skills in both frontend and backend technologies and languag
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/-%20Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-%20PostgreSQL%20-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-%20SQLite%20-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-%20GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-%20Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-%20RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
