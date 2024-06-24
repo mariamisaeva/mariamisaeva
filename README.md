@@ -26,9 +26,11 @@ I have gained solid skills in both frontend and backend technologies and languag
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellowgreen?style=flat&logo=javascript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+
+
 ![JavaScript](https://img.shields.io/badge/-%20%20%20%20%20%20%20%20JavaScript%20%20%20%20%20%20%20%20-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white&label=%20%20%20%20%20%20%20JavaScript)
 ![JavaScript](https://img.shields.io/badge/-%20JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
@@ -38,7 +40,12 @@ I have gained solid skills in both frontend and backend technologies and languag
     <img alt="JavaScript" src="https://img.shields.io/badge/-%20JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" style="height: 28px;">
 </div>
 
-
+<p>
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50">
+</p>
    
 
 
