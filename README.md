@@ -81,13 +81,9 @@ I have gained solid skills in both frontend and backend technologies and languag
 
 <h3 align="left">🛠 Planning To Learn:</h3>
 
-![Java](https://img.shields.io/badge/-%20Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-
-
 ![Docker](https://img.shields.io/badge/-%20Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
 ![GraphQL](https://img.shields.io/badge/-%20GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-%20Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-%20RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
