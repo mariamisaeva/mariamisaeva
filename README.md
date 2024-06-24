@@ -48,25 +48,6 @@ I have gained solid skills in both frontend and backend technologies and languag
 </p>
    
 
-<p>
-  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="50">
-  <img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="50">
-</p>
-
-
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat&logo=unreal-engine&logoColor=white)
-![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white&labelColor=61DAFB&logoWidth=40&logoHeight=40)
-
-
-
-
-
-
-
-
 
 ###
 
@@ -103,7 +84,8 @@ I have gained solid skills in both frontend and backend technologies and languag
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariamisaeva&label=Profile%20views&color=0e75b6&style=flat" alt="mariamisaeva" /> </p>
-
+![focus](https://img.shields.io/badge/focus-backend-brightgreen)
+![living](https://img.shields.io/badge/living-shanghai-3c9)
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 <!--
