@@ -35,6 +35,9 @@ I have gained solid skills in both frontend and backend technologies and languag
 <div style="display: inline-block; padding: 8px; background-color: #f0db4f; border-radius: 5px;">
     <img alt="JavaScript" src="https://img.shields.io/badge/-%20JavaScript%20-yellow?style=for-the-badge&logo=javascript&logoColor=white" style="height: 40px;">
 </div>
+<div style="display: inline-block; padding: 5px 10px; background-color: white; border: 1px solid #ccc; border-radius: 5px; font-weight: bold; font-size: 16px;">
+    JS
+</div>
 
 
 
