@@ -13,14 +13,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariamisaeva&theme=" alt="mariamisaeva" /></a> </p>
 
 - 💬 Ask me about **anything, I am happy to help**
-- 📫 How to reach me **mariam.hammad8@gmail.com**
-
+- 📫 How to reach me: 
 <div> <a href="https://www.linkedin.com/in/mariam-hammad-10a42083" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/mariamisaeva" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:mariam.hammad8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mariam-hammad-10a42083" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="mariam-hammad-10a42083" height="30" width="40" /></a></p>
+</div>
+
+
 
 <h3 align="left">Stars</h3>
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mariamisaeva&theme=" alt="mariamisaeva" /></p>
