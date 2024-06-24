@@ -35,7 +35,9 @@ I have gained solid skills in both frontend and backend technologies and languag
 
 
 ![JavaScript](https://img.shields.io/badge/-%20JavaScript%20-yellow?style=for-the-badge&logo=javascript&logoColor=white)
-
+![HTML5](https://img.shields.io/badge/-%20HTML5%20-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-%20CSS3%20-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-%20JavaScript%20-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
 
