@@ -56,18 +56,6 @@ I have gained solid skills in both frontend and backend technologies and languag
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-
-###
-
-
-
-###
-
-
-
-
-
-<h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/mariamisaeva">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mariamisaeva&theme=2077" height="180em" />
@@ -75,7 +63,7 @@ I have gained solid skills in both frontend and backend technologies and languag
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariamisaeva&theme=2077" height="180em" />
 </div>
 
-  
+
 
 
 ###
