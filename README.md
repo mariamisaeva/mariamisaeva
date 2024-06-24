@@ -40,7 +40,6 @@ I have gained solid skills in both frontend and backend technologies and languag
 ![C++](https://img.shields.io/badge/-%20C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![NPM](https://img.shields.io/badge/-%20NPM%20-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/-%20Git%20-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-%20GitHub%20-181717?style=for-the-badge&logo=github&logoColor=white)
 ![React](https://img.shields.io/badge/-%20React%20-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/-%20Redux%20-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-%20Tailwind%20CSS%20-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -62,7 +61,7 @@ I have gained solid skills in both frontend and backend technologies and languag
 ![Vercel](https://img.shields.io/badge/-%20Vercel%20-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-%20Netlify%20-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![UE5](https://img.shields.io/badge/-%20UE5-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
-![Linux](https://img.shields.io/badge/-%20Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 ###
