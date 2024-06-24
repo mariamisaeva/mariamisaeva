@@ -34,12 +34,46 @@ I have gained solid skills in both frontend and backend technologies and languag
 ###
 
 
-![JavaScript](https://img.shields.io/badge/-%20JavaScript%20-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-%20HTML5%20-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-%20CSS3%20-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-%20JavaScript%20-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-%20C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+![NPM](https://img.shields.io/badge/-%20NPM%20-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
+![React](https://img.shields.io/badge/-%20React%20-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+![Redux](https://img.shields.io/badge/-%20Redux%20-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-%20Tailwind%20CSS%20-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-%20Bootstrap%20-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material-UI](https://img.shields.io/badge/-%20Material--UI%20-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Figma](https://img.shields.io/badge/-%20Figma%20-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/-%20Node.js%20-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-%20Express.js%20-000000?style=for-the-badge&logo=express&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/-%20MongoDB%20-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-%20MySQL%20-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Git](https://img.shields.io/badge/-%20Git%20-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-%20GitHub%20-181717?style=for-the-badge&logo=github&logoColor=white)
+
+![Jest](https://img.shields.io/badge/-%20Jest%20-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Mocha](https://img.shields.io/badge/-%20Mocha%20-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
+![Cypress](https://img.shields.io/badge/-%20Cypress%20-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+
+![JWT](https://img.shields.io/badge/-%20JWT%20-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/-%20OAuth%20-4285F4?style=for-the-badge&logo=oauth&logoColor=white)
+
+![Postman](https://img.shields.io/badge/-%20Postman%20-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+![Heroku](https://img.shields.io/badge/-%20Heroku%20-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Vercel](https://img.shields.io/badge/-%20Vercel%20-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/-%20Netlify%20-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Firebase](https://img.shields.io/badge/-%20Firebase%20-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+
+![Unreal Engine](https://img.shields.io/badge/-%20Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![Unreal Engine 5](https://img.shields.io/badge/-%20Unreal%20Engine%205-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
 
 
