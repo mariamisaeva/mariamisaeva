@@ -45,7 +45,7 @@ I have gained solid skills in both frontend and backend technologies and languag
 ![Redux](https://img.shields.io/badge/-%20Redux%20-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-%20Tailwind%20CSS%20-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-%20Bootstrap%20-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material-UI](https://img.shields.io/badge/-%20Material--UI%20-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Material-UI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![Figma](https://img.shields.io/badge/-%20Figma%20-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-%20Node.js%20-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
