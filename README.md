@@ -72,8 +72,7 @@ I have gained solid skills in both frontend and backend technologies and languag
 ![Netlify](https://img.shields.io/badge/-%20Netlify%20-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-%20Firebase%20-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
-![Unreal Engine](https://img.shields.io/badge/-%20Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
-![Unreal Engine 5](https://img.shields.io/badge/-%20Unreal%20Engine%205-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![UE5](https://img.shields.io/badge/-%20Unreal%20Engine%205-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
 
 
