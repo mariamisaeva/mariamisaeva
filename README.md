@@ -48,7 +48,6 @@ I have gained solid skills in both frontend and backend technologies and languag
 ![Material-UI](https://img.shields.io/badge/-%20Material--UI%20-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Figma](https://img.shields.io/badge/-%20Figma%20-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-%20Node.js%20-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-%20Express.js%20-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/-%20MongoDB%20-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-%20MySQL%20-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
