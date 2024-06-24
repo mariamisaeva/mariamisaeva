@@ -69,7 +69,7 @@ I have gained solid skills in both frontend and backend technologies and languag
 
 <h3 align="left">🛠 Currently Learning:</h3>
 
-![Python](https://img.shields.io/badge/-%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/-%20TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![WebSockets](https://img.shields.io/badge/-%20WebSockets-777777?style=for-the-badge&logo=websocket&logoColor=white)
@@ -82,6 +82,7 @@ I have gained solid skills in both frontend and backend technologies and languag
 <h3 align="left">🛠 Planning To Learn:</h3>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/-%20Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-%20GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
