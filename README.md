@@ -4,6 +4,12 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Tech+Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50&color=0EE400FF"></a>
 </p>
+
+
+ 
+ Hi there, I'm Mariam, an aspiring web developer transitioning from a different field. Having completed an intensive coding Bootcamp at HYF and through diligent self-study, 
+I have gained solid skills in both frontend and backend technologies and languages. I'm currently working on improving my tech skills, building new projects, and contributing to meaningful initiatives in the web development community.
+
 <hr/>
 
 
