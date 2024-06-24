@@ -10,7 +10,8 @@
  Hi there, I'm Mariam, an aspiring web developer transitioning from a different field. Having completed an intensive coding Bootcamp at HYF and through diligent self-study, 
 I have gained solid skills in both frontend and backend technologies and languages. I'm currently working on improving my tech skills, building new projects, and contributing to meaningful initiatives in the web development community.
 
-<hr/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
 
@@ -23,7 +24,9 @@ I have gained solid skills in both frontend and backend technologies and languag
 
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/mariamisaeva">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mariamisaeva&theme=2077" height="180em" />
