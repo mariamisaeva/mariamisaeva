@@ -12,7 +12,11 @@
  Hi there, I'm Mariam, an aspiring web developer transitioning from a different field. Having completed an intensive coding Bootcamp at HYF and through diligent self-study, 
 I have gained solid skills in both frontend and backend technologies and languages.<p>⚙️ I'm currently working on improving my tech skills, building new projects, and contributing to meaningful initiatives in the web development community.</p> <p>🎮 In my free time I do gaming.</p>
 <p>💬 Ask me about <strong>anything, I am happy to help</strong> </p>
-
+<div>📫 How to reach me: 
+<div> <a href="https://www.linkedin.com/in/mariam-hammad-10a42083" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/mariamisaeva" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href = "mailto:mariam.hammad8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div></div>
 
 ###
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -76,11 +80,7 @@ I have gained solid skills in both frontend and backend technologies and languag
 </div>
 
   
-- 📫 How to reach me: 
-<div> <a href="https://www.linkedin.com/in/mariam-hammad-10a42083" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/mariamisaeva" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:mariam.hammad8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+
 
 ###
 
