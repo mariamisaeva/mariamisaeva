@@ -54,9 +54,13 @@ I have gained solid skills in both frontend and backend technologies and languag
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mariamisaeva&label=Visitors&color=0e75b6&style=flat" alt="Visitors" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-BACKEND-brightgreen" alt="Focus" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Living-Netherlands-3c9" alt="Living" />
+</p>
 
-![focus](https://img.shields.io/badge/Focus-BACKEND-brightgreen)
-![living](https://img.shields.io/badge/Living-Netherlands-3c9)
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 <!--
