@@ -71,6 +71,7 @@ I have gained solid skills in both frontend and backend technologies and languag
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/-%20TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![WebSockets](https://img.shields.io/badge/-%20WebSockets-777777?style=for-the-badge&logo=websocket&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-%20Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
