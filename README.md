@@ -26,6 +26,7 @@ I have gained solid skills in both frontend and backend technologies and languag
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellowgreen?style=flat&logo=javascript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-%20%20%20%20%20%20%20%20JavaScript%20%20%20%20%20%20%20%20-yellow?style=for-the-badge&logo=javascript&logoColor=white)
@@ -38,7 +39,7 @@ I have gained solid skills in both frontend and backend technologies and languag
 </div>
 
 
-    <img alt="JavaScript" src="https://img.shields.io/badge/-%20JavaScript%20-yellow?style=for-the-badge&logo=javascript&logoColor=white" style="height: 40px;">
+   
 
 
 
