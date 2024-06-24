@@ -71,7 +71,7 @@ I have gained solid skills in both frontend and backend technologies and languag
 
 ###
 
-<h3 align="left">🛠 Currently Learning:</h3>
+<h3 align="left">💻 Currently Learning:</h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -84,7 +84,7 @@ I have gained solid skills in both frontend and backend technologies and languag
 
 ###
 
-<h3 align="left">🛠 Planning To Learn:</h3>
+<h3 align="left">🏹 Planning To Learn:</h3>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
