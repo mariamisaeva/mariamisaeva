@@ -51,11 +51,11 @@ I have gained solid skills in both frontend and backend technologies and languag
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariamisaeva&theme=2077" height="180em" />
 </div>
 
+###
 
 ###
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mariamisaeva&label=Visitors&color=0e75b6&style=flat" alt="Visitors" />
@@ -66,7 +66,6 @@ I have gained solid skills in both frontend and backend technologies and languag
 <p align="center">
   <img src="https://img.shields.io/badge/Living-Netherlands-3c9" alt="Living" />
 </p>
-
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 <!--
