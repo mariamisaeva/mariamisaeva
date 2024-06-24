@@ -33,6 +33,11 @@ I have gained solid skills in both frontend and backend technologies and languag
 ![JavaScript](https://img.shields.io/badge/-%20JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-%20JavaScript%20-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 
+<div style="display: inline-block; padding: 5px 10px; background-color: #f0db4f; border: 1px solid #ccc; border-radius: 8px;">
+    <img alt="JavaScript" src="https://img.shields.io/badge/-%20JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" style="height: 28px;">
+</div>
+
+
     <img alt="JavaScript" src="https://img.shields.io/badge/-%20JavaScript%20-yellow?style=for-the-badge&logo=javascript&logoColor=white" style="height: 40px;">
 
 
