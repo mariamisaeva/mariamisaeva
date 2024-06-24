@@ -73,8 +73,6 @@ I have gained solid skills in both frontend and backend technologies and languag
 <div align="center">
 <a href="https://github.com/mariamisaeva">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mariamisaeva&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mariamisaeva&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mariamisaeva&theme=2077" height="180em" />
 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariamisaeva&theme=2077" height="180em" />
 </div>
