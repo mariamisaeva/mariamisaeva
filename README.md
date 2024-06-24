@@ -39,6 +39,13 @@ I have gained solid skills in both frontend and backend technologies and languag
     JS
 </div>
 
+<div style="display: inline-block; padding: 5px 10px; background-color: #f0db4f; border: 1px solid #ccc; border-radius: 5px; font-weight: bold; font-size: 16px;">
+    <div style="display: inline-block; background-color: white; padding: 5px 10px; border-radius: 3px;">
+        JS
+    </div>
+</div>
+
+
 
 
 
