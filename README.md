@@ -56,6 +56,7 @@ I have gained solid skills in both frontend and backend technologies and languag
 
 ![MongoDB](https://img.shields.io/badge/-%20MongoDB%20-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-%20MySQL%20-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-%20Firebase%20-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
 ![Jest](https://img.shields.io/badge/-%20Jest%20-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/-%20Mocha%20-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
@@ -69,7 +70,6 @@ I have gained solid skills in both frontend and backend technologies and languag
 ![Heroku](https://img.shields.io/badge/-%20Heroku%20-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-%20Vercel%20-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-%20Netlify%20-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Firebase](https://img.shields.io/badge/-%20Firebase%20-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
 ![UE5](https://img.shields.io/badge/-%20UE5-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
