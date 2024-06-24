@@ -40,16 +40,8 @@ I have gained solid skills in both frontend and backend technologies and languag
 ![JavaScript](https://img.shields.io/badge/-%20JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-%20JavaScript%20-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 
-<div style="display: inline-block; padding: 5px 10px; background-color: #f0db4f; border: 1px solid #ccc; border-radius: 8px;">
-    <img alt="JavaScript" src="https://img.shields.io/badge/-%20JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" style="height: 28px;">
-</div>
 
-<p>
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="50">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50">
-</p>
+
    
 
 
@@ -62,8 +54,6 @@ I have gained solid skills in both frontend and backend technologies and languag
 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariamisaeva&theme=2077" height="180em" />
 </div>
-
-
 
 
 ###
