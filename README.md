@@ -107,14 +107,14 @@ I have gained solid skills in both frontend and backend technologies and languag
 <h3 align="left">🔥   My Stats :</h3>
 
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=chartreuse-dark&preferLogin=false">    <img  alt="mariamisaeva's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/mariamisaeva?cardType=github&theme=chartreuse-dark&preferLogin=false" />  </a>
-
+<!--
 <div align="center">
 <a href="https://github.com/mariamisaeva">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mariamisaeva&theme=2077" height="180em" />
 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariamisaeva&theme=2077" height="180em" />
 </div>
-
+-->
 ###
 
 ###
