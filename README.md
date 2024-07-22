@@ -79,6 +79,7 @@ I have gained solid skills in both frontend and backend technologies and languag
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![Next.js](https://img.shields.io/badge/-%20Next.js-FF6600?style=for-the-badge&logo=next.js&logoColor=white)
 ![Linux Server](https://img.shields.io/badge/-%20Linux%20Server-6DB33F?style=for-the-badge&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/-%20Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 <BR>
 
@@ -89,7 +90,6 @@ I have gained solid skills in both frontend and backend technologies and languag
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-![Docker](https://img.shields.io/badge/-%20Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-%20PostgreSQL%20-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-%20SQLite%20-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-%20GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
