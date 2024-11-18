@@ -56,6 +56,7 @@ I have gained solid skills in both frontend and backend technologies and languag
 ![Jest](https://img.shields.io/badge/-%20Jest%20-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/-%20Mocha%20-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![Playwright](https://img.shields.io/badge/-%20Playwright-%2323C63E?style=for-the-badge&logo=playwright&logoColor=white)
 ![JWT](https://img.shields.io/badge/-%20JWT%20-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 ![OAuth](https://img.shields.io/badge/-%20OAuth%20-4285F4?style=for-the-badge&logo=oauth&logoColor=white)
 ![Postman](https://img.shields.io/badge/-%20Postman%20-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
