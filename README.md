@@ -92,6 +92,13 @@ I have gained solid skills in both frontend and backend technologies and languag
 
 <h3 align="left">🏹 Planning To Learn:</h3>
 
+![Playwright](https://img.shields.io/badge/-%20Playwright-%23E06C75?style=for-the-badge&logo=playwright&logoColor=%2361DAFB)
+![C#](https://img.shields.io/badge/-%20C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-%20.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Django](https://img.shields.io/badge/-%20Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-%20Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-%20Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
 ![SQLite](https://img.shields.io/badge/-%20SQLite%20-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/-%20Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-%20RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
