@@ -130,7 +130,6 @@ I have gained solid skills in both frontend and backend technologies and languag
 
 <p align="center">
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
-  <!-- <img src="https://komarev.com/ghpvc/?username=mariamisaeva&label=Visitors&color=0e75b6&style=flat" alt="Visitors" /> -->
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-BACKEND-brightgreen" alt="Focus" />
@@ -165,4 +164,6 @@ Here are some ideas to get you started:
   
   <br/><br/><br/>
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=mariamisaeva&label=Visitors&color=0e75b6&style=flat" alt="Visitors" />
 -->
