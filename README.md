@@ -138,8 +138,6 @@ I have gained solid skills in both frontend and backend technologies and languag
   <img src="https://img.shields.io/badge/Living-Netherlands-3c9" alt="Living" />
 </p>
 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mariamisaeva)
-
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 <!--
 **mariamisaeva/mariamisaeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
