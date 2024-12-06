@@ -129,7 +129,7 @@ I have gained solid skills in both frontend and backend technologies and languag
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+ <img![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-BACKEND-brightgreen" alt="Focus" />
