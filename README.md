@@ -109,6 +109,15 @@ I have gained solid skills in both frontend and backend technologies and languag
 
 <BR>
 
+<!--
+# My Projects
+
+| #   | Source Code | Click for Live Demo | Preview         |
+|-----|-------------|---------------------|-----------------|
+| 1   | [Closer App](https://github.com/yourusername/closer-app) | [Live Demo](https://closer-app-live.com) | ![Closer App](https://github.com/mariamisaeva/DigiStore/blob/main/client/public/Screenshots/screencapture-digi-store-alpha-vercel-app-2024-11-03-19_39_46.png?raw=true) |
+| 2   | [The Weather App](https://github.com/yourusername/weather-app) | [Live Demo](https://weather-app-live.com) | ![Weather App](https://via.placeholder.com/300x200?text=Weather+App) |
+
+-->
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
