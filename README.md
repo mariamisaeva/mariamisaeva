@@ -139,7 +139,6 @@ I have gained solid skills in both frontend and backend technologies and languag
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mariamisaeva.mariamisaeva" alt="Visitors" />
-
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-BACKEND-brightgreen" alt="Focus" />
