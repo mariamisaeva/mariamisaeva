@@ -36,6 +36,7 @@ I have gained solid skills in both frontend and backend technologies and languag
 ![HTML5](https://img.shields.io/badge/-%20HTML5%20-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-%20CSS3%20-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-%20JavaScript%20-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/-%20C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![NPM](https://img.shields.io/badge/-%20NPM%20-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/-%20Git%20-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -74,7 +75,6 @@ I have gained solid skills in both frontend and backend technologies and languag
 
 <h3 align="left">💻 Currently Learning:</h3>
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/-%20Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
