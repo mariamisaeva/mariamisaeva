@@ -53,6 +53,7 @@ I have gained solid skills in both frontend and backend technologies and languag
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/-%20MongoDB%20-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-%20MySQL%20-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-%20PostgreSQL%20-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-%20Firebase%20-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![Jest](https://img.shields.io/badge/-%20Jest%20-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/-%20Mocha%20-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
@@ -79,7 +80,6 @@ I have gained solid skills in both frontend and backend technologies and languag
 ![Django](https://img.shields.io/badge/-%20Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-![PostgreSQL](https://img.shields.io/badge/-%20PostgreSQL%20-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-%20GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![Next.js](https://img.shields.io/badge/-%20Next.js-FF6600?style=for-the-badge&logo=next.js&logoColor=white)
