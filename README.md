@@ -42,6 +42,7 @@ I have gained solid skills in both frontend and backend technologies and languag
 ![Git](https://img.shields.io/badge/-%20Git%20-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/-%20Next.js-FF6600?style=for-the-badge&logo=next.js&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-%20Tailwind%20CSS%20-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -82,7 +83,6 @@ I have gained solid skills in both frontend and backend technologies and languag
 
 ![GraphQL](https://img.shields.io/badge/-%20GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![Next.js](https://img.shields.io/badge/-%20Next.js-FF6600?style=for-the-badge&logo=next.js&logoColor=white)
 ![Linux Server](https://img.shields.io/badge/-%20Linux%20Server-6DB33F?style=for-the-badge&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/-%20Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
