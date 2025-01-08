@@ -9,7 +9,7 @@
 ###
  <h3 align="left">About Me 👩‍💻 </h3>
 
-Hi there, I'm a full-stack developer who loves building useful and impactful digital solutions. Through self-study and hands-on experience, I’ve built a solid foundation in both frontend and backend technologies. I work with JavaScript, React, Node.js, and RESTful APIs, and I have experience with Agile/Scrum workflows. Always coding, learning, and creating something new.
+ Full-stack developer with a passion for innovation and problem-solving. Through self-study and hands-on experience, I’ve built a solid foundation in both frontend and backend technologies. Always coding, learning, and creating something new.
 
  <p>⚙️ I'm currently working on improving my tech skills, building new projects, and contributing to meaningful initiatives in the web development community.</p> <p>🎮 In my free time I do gaming.</p>
 <p>💬 Ask me about <strong>anything, I am happy to help</strong> </p>
