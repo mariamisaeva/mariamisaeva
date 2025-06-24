@@ -143,7 +143,7 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-BACKEND-brightgreen" alt="Focus" />
-  <img src="https://img.shields.io/badge/Focus-FRONTEND-brightgreen" alt="Focus" />
+<!--   <img src="https://img.shields.io/badge/Focus-FRONTEND-brightgreen" alt="Focus" /> -->
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Living-Netherlands-3c9" alt="Living" />
