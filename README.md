@@ -100,7 +100,6 @@
 ![Flask](https://img.shields.io/badge/-%20Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 
-![SQLite](https://img.shields.io/badge/-%20SQLite%20-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/-%20Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-%20RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
