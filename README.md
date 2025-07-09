@@ -15,6 +15,7 @@
  <p>⚙️ I'm currently working on improving my tech skills, building new projects, and contributing to meaningful initiatives in the web development community.</p> <p>🎮 In my free time I do gaming.</p>
 <p>💬 Ask me about <strong>anything, I am happy to help</strong> </p>
 
+
 ###
 <div>📫 How to reach me: 
  <a href="https://www.linkedin.com/in/mariam-hammad-10a42083" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
