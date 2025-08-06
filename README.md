@@ -145,17 +145,17 @@
 ###
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mariamisaeva.mariamisaeva" alt="Visitors" />
-</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-BACKEND-brightgreen" alt="Focus" />
 <!--   <img src="https://img.shields.io/badge/Focus-FRONTEND-brightgreen" alt="Focus" /> -->
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Living-Netherlands-3c9" alt="Living" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mariamisaeva.mariamisaeva" alt="Visitors" />
 </p>
+
+<!-- <p align="center">
+  <img src="https://img.shields.io/badge/Living-Netherlands-3c9" alt="Living" />
+</p> -->
 
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
