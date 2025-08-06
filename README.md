@@ -22,7 +22,7 @@
   <a href="mailto:mariam.hammad8@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-<a href="https://t.me/@M8AD0" target="_blank">
+<a href="https://t.me/M8AD0" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
 </a>
 <!-- <a href="https://wa.me/YOUR_WHATSAPP_NUMBER" target="_blank">
