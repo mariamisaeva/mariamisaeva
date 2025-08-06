@@ -12,7 +12,7 @@
 
  Full-stack developer with a passion for innovation and creating impactful digital solutions. Through self-study and hands-on experience, I’ve built a solid foundation in both frontend and backend technologies. Always coding, learning, and creating something new.
 
- <p>⚙️ I'm currently working on improving my tech skills, building new projects, and contributing to meaningful initiatives in the web development community.</p> <p>🎮 In my free time I do gaming.</p>
+ <p>⚙️ I'm currently working on improving my tech skills, building new projects, and contributing to meaningful initiatives in the Full-Stack development community.</p> <p>🎮 In my free time I do gaming.</p>
 <p>💬 Ask me about <strong>anything, I am happy to help</strong> </p>
 
 
