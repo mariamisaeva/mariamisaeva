@@ -63,7 +63,7 @@
 ![NPM](https://img.shields.io/badge/-%20NPM%20-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/-%20Git%20-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Figma](https://img.shields.io/badge/-%20Figma%20-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-222?style=for-the-badge&logo=figma&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-%20Tailwind%20CSS%20-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-%20Bootstrap%20-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
