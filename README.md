@@ -72,6 +72,8 @@
 ![Netlify](https://img.shields.io/badge/-%20Netlify%20-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![UE5](https://img.shields.io/badge/-%20UE5-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
 
 <BR>
 
